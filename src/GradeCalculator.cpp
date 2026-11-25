@@ -8,5 +8,5 @@ char calculateLetterGrade(int score) {
 }
 
 bool isPassing(int score) {
-    return score >= 50;
+    return score >= 90;
 }
